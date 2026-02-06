@@ -10,7 +10,7 @@ A practical web application built with Node.js, Express, and MySQL for you to re
 ___
 
 ## Project First Look
-![Application Screen Shot in GIF](expense-tracker.gif)
+![Application Screen Shot in GIF](expense-tracker)
 
 
 ## Features
@@ -48,7 +48,7 @@ The following instructions will get you a copy of the project and all the settin
 Clone this repository to your local machine
 
 ```
-$ git clone https://github.com/smallpaes/expense-tracker-mysql.git
+$ git clone https://github.com/KhushbuChauhan-06/Expense-tracker.git
 ```
 
 ### Setup Datebase
@@ -147,4 +147,4 @@ ___
 
 
 ## Authors
-[Mike Huang](https://github.com/smallpaes)
+[Khushbu Chauhan](https://github.com/KhushbuChauhan-06)
